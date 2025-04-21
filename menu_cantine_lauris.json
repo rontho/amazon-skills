@@ -1,68 +1,19 @@
 {
-  "LUNDI_07_AVRIL": [
-    "Salade verte",
-    "Tortillas au jambon",
-    "Riz",
-    "Fromage",
-    "Cookies",
-    "pain"
-  ],
-  "MARDI_08_AVRIL": [
-    "Taboulé",
-    "Pain saucisson",
-    "Pain jambon blanc",
-    "Yaourt à boire",
-    "Fruit",
-    "pain"
-  ],
-  "MERCREDI_09_AVRIL": [
-    "Salade de pâtes",
-    "Pain pâté",
-    "Yaourt à boire",
-    "Fruit",
-    "pain"
-  ],
-  "JEUDI_10_AVRIL": [
-    "Carottes râpées",
-    "Dahl de lentilles vertes",
-    "Kiwi",
-    "Fruit",
-    "pain"
-  ],
-  "VENDREDI_11_AVRIL": [
-    "Pois chichades",
-    "Galettes végétales",
-    "Poêlée de légumes",
-    "Gâteau chocolat",
-    "pain"
-  ],
-  "LUNDI_14_AVRIL": [
-    "Concombre vinaigrette",
-    "Cake aux olives",
-    "Haricots verts",
-    "Flan chocolat",
-    "Gâteau aux amandes",
-    "pain"
-  ],
-  "MARDI_15_AVRIL": [
-    "Carottes râpées",
-    "Chili con carne",
-    "Riz",
-    "Fromage",
-    "Fruit",
-    "pain"
-  ],
-  "MERCREDI_16_AVRIL": [
-    "Bâtonnets de légumes",
-    "Œuf dur tomaté",
-    "Semoule",
-    "Yaourt",
-    "Kiwi",
-    "pain"
-  ],
-  "JEUDI_17_AVRIL": [
-    "Salade de pâtes",
-    "Pain saucisson",
-    "Pain jambon blanc",
-    "Fromage",
-    "pain"
+  "LUNDI_07_avril": ["Salade verte", "Tortillas au jambon", "Riz", "Fromage", "Cookies", "pain"],
+  "MARDI_08_avril": ["Taboulé", "Pain saucisson", "Pain jambon blanc", "Yaourt à boire", "Fruit", "pain"],
+  "MERCREDI_09_avril": ["Salade de pâtes", "Pain pâté", "Yaourt à boire", "Fruit", "pain"],
+  "JEUDI_10_avril": ["Carottes râpées", "Dahl de lentilles vertes", "Kiwi", "Fruit", "pain"],
+  "VENDREDI_11_avril": ["Pois chichades", "Galettes végétales", "Poêlée de légumes", "Gâteau chocolat", "pain"],
+  "LUNDI_14_avril": ["Concombre vinaigrette", "Cake aux olives", "Haricots verts", "Flan chocolat", "Gâteau aux amandes", "pain"],
+  "MARDI_15_avril": ["Carottes râpées", "Chili con carne", "Riz", "Fromage", "Fruit", "pain"],
+  "MERCREDI_16_avril": ["Bâtonnets de légumes", "Œuf dur tomaté", "Semoule", "Yaourt", "Kiwi", "pain"],
+  "JEUDI_17_avril": ["Salade de pâtes", "Pain saucisson", "Pain jambon blanc", "Fromage", "pain"],
+  "VENDREDI_18_avril": ["Salade verte", "Dés de truite", "Coquillettes", "Fromage", "pain"],
+  "MARDI_22_avril": ["Concombre", "Rôti de porc", "Choux-fleur / pommes de terre", "Fromage", "Gâteau aux amandes", "pain"],
+  "MERCREDI_23_avril": ["Houmous de pois chiches", "Galette aux seitans", "Riz", "Petit suisse", "Fruit", "pain"],
+  "JEUDI_24_avril": ["Salade verte", "Omelette pomme de terre", "Yaourt", "Cookies", "pain"],
+  "VENDREDI_25_avril": ["Salade verte", "Pot-au-feu", "Ses légumes", "pain"],
+  "LUNDI_28_avril": ["Carottes râpées", "Rôti de bœuf", "Poêlée de légumes", "Fromage", "Fruit", "pain"],
+  "MARDI_29_avril": ["Salade verte", "Crêpe au fromage", "Petits pois / carottes", "Crêpe au sucre", "pain"],
+  "MERCREDI_30_avril": ["Petit épeautre vinaigrette", "Œuf florentine", "Fromage", "Tarte citron", "pain"]
+}
